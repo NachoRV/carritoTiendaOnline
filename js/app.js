@@ -107,7 +107,7 @@ function vaciarCarrito() {
     return false;
 }
 
-// guarda curso en localStorage
+// guarda curso en localStorage.
 function guardarCusoLocalStorage(curso){
     let cursos;
     cursos = obtenerCursosLocalStorage();
